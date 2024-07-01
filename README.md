@@ -1,5 +1,5 @@
 # ProyectoFinal
-##Comentario para el profesor:
+## Comentario para el profesor:
 Buenas noches. Finalmente pude terminar todo como fue previsto, finalmente solo no pude hacer una cosa, que es uno de los dos mapas, el del LeaderBoard. Hacer el mapa de conteo de puntos me tomó mucho tiempo y al final no pude por tiempo hacer el mapa de LeaderBoard, aunque con lo que aprendí haciendo el otro, probablemente hubiera podido hacer con menos dificultad y tiempo, ya que logré entender mejor los mapas. Fue un proyecto bastante entretenido, realmente se entiende mucho la finalidad de los TDA's y cómo ayudan a dar una imagen mental sobre cómo estructuras los problemas y/o soluciones. 
 # Receta de puntos
 
