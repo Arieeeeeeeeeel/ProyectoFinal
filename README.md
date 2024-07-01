@@ -7,18 +7,31 @@ Este proyecto emula el juego "Ensalada de puntos" utilizando el lenguaje de prog
 ## Funciones Principales
 
 cartas_db: Crea y devuelve un arreglo con todas las cartas del juego.
+
 liberar_cartas_db: Libera la memoria asignada a las cartas del juego.
+
 revolver_cartas_db: Baraja las cartas del juego.
+
 crear_carta: Crea una nueva carta con un vegetal específico.
+
 liberar_carta: Libera la memoria asignada a una carta.
+
 definir_receta: Define una receta para una carta específica.
+
 vegetal_string: Devuelve el nombre de un vegetal en forma de cadena.
-Preparación del Juego
+
+## Preparación del Juego
+
 preparar_juego: Inicializa el estado del juego barajando las cartas y distribuyéndolas en pilas y mercados.
+
 liberar_juego: Libera la memoria asignada al juego.
+
 imprimir_receta: Imprime una receta de una carta.
+
 imprimir_pilas: Imprime el estado actual de las pilas de cartas.
+
 imprimir_mercados: Imprime el estado actual del mercado de cartas.
+
 imprimir_estado_juego: Imprime el estado completo del juego.
 
 ## Jugador
