@@ -6,7 +6,7 @@ Fue un proyecto bastante entretenido, realmente se entiende mucho la finalidad d
 # Receta de puntos
 
 Este proyecto emula el juego "Ensalada de puntos" utilizando el lenguaje de programación C. Es un juego de cartas donde los jugadores intentan acumular puntos mediante la combinación de diferentes vegetales.
-
+En la carpeta "src" del replit, se encuentran los TDA's y funciones específicas para las cartas, también la creación de c/u.
 ## Funciones Principales
 
 cartas_db: Crea y devuelve un arreglo con todas las cartas del juego.
