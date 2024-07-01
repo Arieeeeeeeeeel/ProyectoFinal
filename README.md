@@ -1,5 +1,6 @@
 # ProyectoFinal
-
+##Comentario para el profesor:
+Buenas noches. Finalmente pude terminar todo como fue previsto, finalmente solo no pude hacer una cosa, que es uno de los dos mapas, el del LeaderBoard. Hacer el mapa de conteo de puntos me tomó mucho tiempo y al final no pude por tiempo hacer el mapa de LeaderBoard, aunque con lo que aprendí haciendo el otro, probablemente hubiera podido hacer con menos dificultad y tiempo, ya que logré entender mejor los mapas. Fue un proyecto bastante entretenido, realmente se entiende mucho la finalidad de los TDA's y cómo ayudan a dar una imagen mental sobre cómo estructuras los problemas y/o soluciones. 
 # Receta de puntos
 
 Este proyecto emula el juego "Ensalada de puntos" utilizando el lenguaje de programación C. Es un juego de cartas donde los jugadores intentan acumular puntos mediante la combinación de diferentes vegetales.
@@ -36,16 +37,24 @@ imprimir_estado_juego: Imprime el estado completo del juego.
 
 ## Jugador
 crear_jugador: Crea un nuevo jugador con listas de vegetales y recetas vacías.
+
 liberar_jugador: Libera la memoria asignada a un jugador.
 
 ## Funciones de Juego
 menu: Muestra el menú principal y devuelve la opción seleccionada por el usuario.
+
 sacar_carta_pila: Permite al jugador sacar una carta de una de las pilas.
+
 sacar_carta_mercado: Permite al jugador sacar una carta del mercado.
+
 turno_jugador: Maneja el turno del jugador humano.
+
 turno_ia: Maneja el turno de la "IA".
+
 vegetal_is_equal: Compara dos vegetales para el uso en el mapa de puntajes.
+
 calcular_puntaje: Calcula el puntaje total del jugador en función de las recetas completadas.
+
 jugar_partida: Controla el flujo del juego, alternando turnos entre el jugador y la "IA", y determinando el ganador al final
 
 
