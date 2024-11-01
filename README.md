@@ -1,8 +1,5 @@
 # ProyectoFinal
-## Comentario para el profesor:
-Buenas noches. Finalmente pude terminar todo como fue previsto, finalmente solo no pude hacer una cosa, que es uno de los dos mapas, el del LeaderBoard. Hacer el mapa de conteo de puntos me tomó mucho tiempo y al final no pude por tiempo hacer el mapa de LeaderBoard, aunque con lo que aprendí haciendo el otro, probablemente hubiera podido hacer con menos dificultad y tiempo, ya que logré entender mejor los mapas. Al final con el extra de tiempo también busqué como usar una especie "IA" para que el programa no se viera tan pobre al hacer un 1vs1, aunque me hubiera gustado hacerlo o intentarlo con un grafo, pero realmente el tiempo no era suficiente con los otros ramos molestando. 
 
-Fue un proyecto bastante entretenido, realmente se entiende mucho la finalidad de los TDA's y cómo ayudan a dar una imagen mental sobre cómo estructuras los problemas y/o soluciones. 
 # Receta de puntos
 
 Este proyecto emula el juego "Ensalada de puntos" utilizando el lenguaje de programación C. Es un juego de cartas donde los jugadores intentan acumular puntos mediante la combinación de diferentes vegetales.
